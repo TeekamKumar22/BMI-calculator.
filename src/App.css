@@ -70,10 +70,7 @@ button:active{
 .result {
   margin-top: 20px;
   padding: 10px;
-  /* background-color: #a3b1c6; */
-  border-radius: 5px;
-  box-shadow: 
-        inset  10px  10px 20px #a3b1c6,   -10px  -10px 20px #efffff;
+ 
 }
 
 .result h2 {
